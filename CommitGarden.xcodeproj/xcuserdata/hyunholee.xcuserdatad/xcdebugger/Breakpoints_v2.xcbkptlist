@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EB22EF6E-B85A-48B7-BC25-478F4A8846EE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6672DEC3-7C07-4D15-A8CD-64917FBC777F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommitGarden/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "parseHtmltoDataForCount(html:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6672DEC3-7C07-4D15-A8CD-64917FBC777F - a5bbd53be7bfef77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CommitGarden.ContentView.parseHtmltoDataForCount(html: Swift.String) -&gt; CommitGarden.ContributeData"
+                  moduleName = "CommitGarden"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyunholee/Documents/workspace/github/CommitGarden/CommitGarden/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "6672DEC3-7C07-4D15-A8CD-64917FBC777F - a5bbd53be7bfef39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CommitGarden.ContentView.parseHtmltoDataForCount(html: Swift.String) -&gt; CommitGarden.ContributeData"
+                  moduleName = "CommitGarden"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyunholee/Documents/workspace/github/CommitGarden/CommitGarden/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "6672DEC3-7C07-4D15-A8CD-64917FBC777F - 2b3037a33225634e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftSoup.Element) -&gt; Swift.Bool in CommitGarden.ContentView.parseHtmltoDataForCount(html: Swift.String) -&gt; CommitGarden.ContributeData"
+                  moduleName = "CommitGarden"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyunholee/Documents/workspace/github/CommitGarden/CommitGarden/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
